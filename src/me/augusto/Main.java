@@ -120,7 +120,7 @@ public class Main {
                 }
             }
 
-            System.out.println("Digite a data do ganho:");
+            System.out.println("Digite a data do ganho (dia/mês/ano):");
             String data = SCANNER.next();
 
             System.out.println("Digite a quantidade ganha:");
@@ -171,7 +171,7 @@ public class Main {
                 }
             }
 
-            System.out.println("Digite a data do gasto:");
+            System.out.println("Digite a data do gasto (dia/mês/ano):");
             String data = SCANNER.next();
 
             System.out.println("Digite a quantidade gasta:");
